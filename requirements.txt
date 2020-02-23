@@ -1,0 +1,5 @@
+jieba
+pypinyin
+sklearn
+gensim
+xgboost
